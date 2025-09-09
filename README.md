@@ -3,6 +3,10 @@ A living compendium of coding projects completed as part of the Georgia Tech com
 
 Overview
 ------
+* **CS6200: Graduate Introduction to Operating Systems**
+  * **Topics**: Operating system architecture (kernels), multithreading, synchronization, interprocess communication, addressing and memory mapping, I/O, distributed computing (gRPC)
+  * **Projects**: client/server implementation of the GETFILE networking protocol using C sockets, project 2 (TBD), project 3 (TBD)
+* **CS8001-OIC: Introduction to C Programming**: a seminar covering low-level programming in the C language tasking students with implementing a command line interpreter of a LISP dialect.
 * **CS8001-OFL: Federated Learning and Machine Learning Operations**: a seminar covering decentralized model training, privacy, security, and MLOps frameworks used for the deployment and management of federated learning models.
 * **CS8803: GPU Hardware and Software**
   * **Topics**: GPU hardware architecture, warp scheduling, memory and cache architecture, GPU simulators, CUDA, compilers, PTX, SASS, IR, branch divergence, matrix and tensor compute units.
