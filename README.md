@@ -5,7 +5,7 @@ Overview
 ------
 * **CS6200: Graduate Introduction to Operating Systems**
   * **Topics**: Operating system architecture (kernels), multithreading, synchronization, interprocess communication, addressing and memory mapping, I/O, distributed computing (gRPC)
-  * **Projects**: client/server implementation of the GETFILE networking protocol using C sockets, project 2 (TBD), project 3 (TBD)
+  * **Projects**: client/server implementation of the GETFILE networking protocol using C sockets, including single-threaded client/server and multi-threaded client/server using pthreads; project 2 (TBD); project 3 (TBD)
 * **CS8001-OIC: Introduction to C Programming**: a seminar covering low-level programming in the C language tasking students with implementing a command line interpreter of a LISP dialect.
 * **CS8001-OFL: Federated Learning and Machine Learning Operations**: a seminar covering decentralized model training, privacy, security, and MLOps frameworks used for the deployment and management of federated learning models.
 * **CS8803: GPU Hardware and Software**
